@@ -1,2 +1,6 @@
-# FastAPIs
-FastAPI is a modern, high-performance web framework used for building RESTful APIs with Python. It is designed to be fast to code, easy to learn, and production-ready by default.
+# FastAPIs Learning Series
+
+This repository has separate README files for each learning module:
+
+1. FastAPI basics: `fastapi/README.md`
+2. Simple Project (Patients API): `fastapi/Simple_Project/README.md`

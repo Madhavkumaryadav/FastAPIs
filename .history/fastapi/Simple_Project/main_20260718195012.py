@@ -19,6 +19,6 @@ def hello():
 def view():
     data=load_data()
     return {
-        "Data":data
+        
     }
 

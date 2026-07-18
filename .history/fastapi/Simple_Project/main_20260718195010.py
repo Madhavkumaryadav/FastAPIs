@@ -18,7 +18,5 @@ def hello():
 @app.get("/view")
 def view():
     data=load_data()
-    return {
-        "Data":data
-    }
+    return 
 
